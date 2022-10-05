@@ -1,0 +1,37 @@
+
+body{
+  max-width: 80%;
+  margin:0 auto;
+  
+}
+
+.titulo-principal{
+  color: red;
+  margin-bottom: 0;
+  padding-bottom: 0;
+  font-family: 'Share Tech Mono', monospace;
+  font-weight: 900;
+}
+
+.data-postagem{
+  margin: 0.5rem 0 0 0;
+}
+
+.imagem-principal{
+  width: 100%;
+}
+
+.paragrafo5{
+  margin-bottom: 4rem;
+}
+
+footer{
+  margin: 2rem 0 3rem 0;
+  display: flex;
+  justify-content: center;
+}
+
+.redes-sociais-icons{
+  width: 2rem;
+  margin-left: .7rem;
+}
